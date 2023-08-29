@@ -31,3 +31,11 @@ The query attempts to fetch the top 3 users with the most posts and, for each of
 Implement a simple token-based authentication middleware.
 Add basic validation for input data.
 Implement error handling for the main API routes.
+
+Setup
+
+- `npm install`
+- create an env file
+- `npx prisma migrate dev --name server`
+- `npm run dev`
+- 
